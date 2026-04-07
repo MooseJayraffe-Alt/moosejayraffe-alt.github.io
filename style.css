@@ -11,7 +11,7 @@ html, body {
 	min-height: 100%;
 	
 	/* Background */
-	background-color: #FF7043;
+	background-color: #80aaff;
 	background-position: center;
 	
 	/* Font */
@@ -21,7 +21,7 @@ html, body {
 /* Content classes */
 .content {
 	/* Colour */
-	background-color: #FF7043;
+	background-color: #6596f9;
 	border-left: 1px solid #101030A0;
 	border-right: 1px solid #1010830A0;
 	
@@ -36,7 +36,7 @@ html, body {
 
 .content h1 {
 	/* Font */
-	color: #FD351F;
+	color: #fdee1f;
 	font-size: 25pt;
 	text-align: center;
 	text-shadow: 2pt 2pt #08081580;
@@ -44,7 +44,7 @@ html, body {
 
 .content h2 {
 	/* Font */
-	color: #FD351F;
+	color: #fdee1f;
 	font-size: 20pt;
 	text-align: center;
 	text-shadow: 2pt 2pt #08081580;
@@ -68,17 +68,17 @@ html, body {
 
 .content a {
 	/* Font */
-	color: #008080FF;
+	color: rgb(255, 236, 95);
 }
 
 .content a:hover {
 	/* Font */
-	color: #20A0A0FF;
+	color: rgb(174, 158, 37);
 }
 
 .content a:active {
 	/* Font */
-	color: #40C0FFFF;
+	color: rgb(255, 225, 1);
 }
 
 .content hr {
@@ -178,7 +178,7 @@ html, body {
 /* General classes */
 .footer {
 	/* Colour */
-	background-color: #FF6C47;
+	background-color: #af47ff;
 	border-top: 1px solid #101030A0;
 	
 	/* Padding */
